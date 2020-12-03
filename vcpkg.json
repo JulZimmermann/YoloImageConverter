@@ -1,0 +1,10 @@
+{
+  "name": "pango",
+  "version-string": "1.40.11",
+  "dependencies": [
+    "opencv",
+    "fmt",
+    "fast-cpp-csv-parser",
+    "range-v3"
+  ]
+}
